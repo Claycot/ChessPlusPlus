@@ -1,0 +1,2 @@
+# ChessPlusPlus
+Chess in C++
